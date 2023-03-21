@@ -13,7 +13,7 @@
 // ・while と if を使用した実装
 // ・for と match を使用した実装
 // ・match のパターンをタプルに置き換え
-
+// 
 fn main() {
     //println!("Hello, world!");
     fizzbuzz(1);
